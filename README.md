@@ -94,7 +94,14 @@ else:
 
 ```
 ## Sample Input and Output
+i)	#Use a linear search method to match the item in a list.
+<img width="1034" height="421" alt="image" src="https://github.com/user-attachments/assets/76768b23-efc7-4576-b16d-a1cfd3dde007" />
 
+ii)	# Find the element in a list using Binary Search(Iterative Method).
+<img width="1147" height="416" alt="image" src="https://github.com/user-attachments/assets/c4b637a0-58a7-4900-b6eb-33b5f40314b2" />
+
+iii)	# Find the element in a list using Binary Search (recursive Method).
+<img width="1011" height="425" alt="image" src="https://github.com/user-attachments/assets/571c0fbe-ad60-4454-94e8-29f9fd416053" />
 
 
 
